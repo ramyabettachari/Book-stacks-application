@@ -1,0 +1,5 @@
+bookstacks\dao\PostManipulate.class
+bookstacks\dao\AccountManipulate.class
+bookstacks\conn\DBUtil.class
+bookstacks\dao\BidManipulate.class
+bookstacks\dao\CartManipulate.class
